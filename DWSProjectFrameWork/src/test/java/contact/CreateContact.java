@@ -11,6 +11,8 @@ public static void main(String[] args) {
 	System.out.println("Contact is updated");
 	
 	System.out.println("New Method Added");
+	
+	System.out.println("project completed");
 
 }
 }
