@@ -12,7 +12,9 @@ public static void main(String[] args) {
 	
 	System.out.println("New Method Added");
 	
+	System.out.println("Product updated");
 	System.out.println("project completed");
+	
 
 }
 }
