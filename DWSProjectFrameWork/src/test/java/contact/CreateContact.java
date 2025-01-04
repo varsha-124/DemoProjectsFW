@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	//AE modified the script
 
 	System.out.println("ashika added new contact");
-	System.out.println("Harish added new contact");
+	System.out.println("Shatakshi added new contact");
 
 	System.out.println("New contact created");
 	System.out.println("Contact is updated");
